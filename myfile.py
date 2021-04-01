@@ -1,2 +1,2 @@
-print("Hello Wiasdasdasdasdsarld")
-print("Hello peopleasdsdfsdf")
+print("Hello Wiwersetertertertertertasdasdasdasdsarld")
+print("Hello peopleasdsdfsdasdasf")
