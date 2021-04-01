@@ -1,2 +1,2 @@
-print("Hello Wirld")
+print("Hello Wiasdasdrld")
 print("Hello peopleasdsdfsdf")
